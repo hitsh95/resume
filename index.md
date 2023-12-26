@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# Hao **Sha**
 
 <!--
 include contact information from the front matter
@@ -18,6 +18,8 @@ Supported arguments:
     - phone
     - email
 -->
+I am currently a 1st year PhD student in the department of Computer Science, Johns Hopkins University. I am a member of CCVL, advised by Bloomberg Distinguished Professor Dr. Alan Yuille. Previously, I received my MSE and BSE degrees from Tsinghua University in 2023 and 2020. My master advisor is prof. Haoqian Wang. During my study in Tsinghua University, I spent a good time with prof. Yulun Zhang, prof. Xin Yuan, prof. Radu Timofte, and prof. Luc Van Gool.
+
 
 {% include cv-contact.html %}
 
