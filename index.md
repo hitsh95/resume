@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Hao Sha
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: shahao@stu.hit.edu.cn
+  text: email
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://scholar.google.com.hk/citations?user=-mqUZ8oAAAAJ&hl=zh-CN
+  text: Google Scholar 
 ---
 
 # Hao **Sha**
@@ -18,8 +18,6 @@ Supported arguments:
     - phone
     - email
 -->
-I am currently a 1st year PhD student in the department of Computer Science, Johns Hopkins University. I am a member of CCVL, advised by Bloomberg Distinguished Professor Dr. Alan Yuille. Previously, I received my MSE and BSE degrees from Tsinghua University in 2023 and 2020. My master advisor is prof. Haoqian Wang. During my study in Tsinghua University, I spent a good time with prof. Yulun Zhang, prof. Xin Yuan, prof. Radu Timofte, and prof. Luc Van Gool.
-
 
 {% include cv-contact.html %}
 
