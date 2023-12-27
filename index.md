@@ -4,10 +4,10 @@ title: Hao Sha
 email:
   url: shahao@stu.hit.edu.cn
   text: shahao@stu.hit.edu.cn
-homepage:
+GoogleScolar:
   url: https://scholar.google.com.hk/citations?user=-mqUZ8oAAAAJ&hl=zh-CN
   text: Google Scholar 
-homepage:
+ResearchGate:
   url: https://www.researchgate.net/profile/Hao-Sha-5
   text: Research Gate 
 ---
