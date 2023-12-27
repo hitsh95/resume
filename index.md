@@ -3,10 +3,13 @@ layout: cv
 title: Hao Sha
 email:
   url: shahao@stu.hit.edu.cn
-  text: email
+  text: shahao@stu.hit.edu.cn
 homepage:
   url: https://scholar.google.com.hk/citations?user=-mqUZ8oAAAAJ&hl=zh-CN
   text: Google Scholar 
+
+  url: https://www.researchgate.net/profile/Hao-Sha-5
+  text: Research Gate 
 ---
 
 # Hao **Sha**
