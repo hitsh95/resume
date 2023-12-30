@@ -104,7 +104,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 ## Publications
 
 
-<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
+<div style="display: flex; align-items: center; justify-content: center; height: 250px;">
   <div style="flex: 1;">
     <img src="./assets/APL-2023/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
@@ -116,7 +116,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
       <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
       <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BioRxiV</a> /
       <a href="https://github.com/hitsh95/SpecGAN">Github</a> /
-      <a href="./bibtex/photonics2023.txt">BibTex</a> 
+      <a href="./bibtex/photonics2023Sha.txt">BibTex</a> 
     </p>
     <p>A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.</p>
   </div>
@@ -125,7 +125,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
+<div style="display: flex; align-items: center; justify-content: center; height: 250px;">
   <div style="flex: 1;">
     <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
@@ -145,7 +145,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
+<div style="display: flex; align-items: center; justify-content: center; height: 250px;">
   <div style="flex: 1; ">
     <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
@@ -164,7 +164,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
+<div style="display: flex; align-items: center; justify-content: center; height: 250px;">
   <div style="flex: 1;">
     <img src="./assets/FPM-2021/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
