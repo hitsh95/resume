@@ -30,9 +30,9 @@ Supported arguments:
 
 <table>
   <tr>
-    <td style="width: 70%; vertical-align: top;">
-      I am currently a 3rd year PhD student in the department of [Computer Science](http://cs.hitsz.edu.cn/), [Harbin Institute of Technology (ShenZhen)](http://en.hitsz.edu.cn/). I am a member of CCVL, advised by Bloomberg Distinguished Professor Dr. Alan Yuille. Previously, I received my MSE and BSE degrees from Tsinghua University in 2023 and 2020. My master advisor is prof. Haoqian Wang. During my study in Tsinghua University, I spent a good time with prof. Yulun Zhang, prof. Xin Yuan, prof. Radu Timofte, and prof. Luc Van Gool.</td>
-    <td style="width: 30%; vertical-align: top;">
+    <td style="width: 70%; vertical-align: middle;">
+      I am currently a 3rd year PhD student in the department of <a href="http://cs.hitsz.edu.cn/">Computer Science</a>, <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a>. Previously, I received my MSE and BSE degrees from <a href="https://en.csu.edu.cn/">Central South University</a> and <a href="https://www.lit.edu.cn/">LuoYang Institute of Technology</a> in 2020 and 2017. My Ph.D. supdervisors are Prof. <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Yongbing Zhang</a> from Harbin Insititute of Technology and Assistant Prof. <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Shangguo Hou</a>  from Shenzhen Bay Laboratory. During my study in HIT, I spent a good time with  Prof. <a href="https://www.sigs.tsinghua.edu.cn/hsy_en/main.htm">Sanyang Han</a>, Prof. <a href="http://web.ee.tsinghua.edu.cn/linxing/en/index.htm">Xing Lin</a>, and Prof. <a href="https://ee.jlu.edu.cn/en/info/1028/1106.htm">Chenguang Wang</a>.</td>
+    <td style="width: 30%; vertical-align: middle;">
       <img src="./assets/photo.jpg" alt="图片描述" style="max-width: 200px; width: 100%;"/></td>
   </tr>
 </table>
