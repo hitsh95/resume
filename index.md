@@ -45,11 +45,12 @@ Supported arguments:
 Shenzhen, China
 ```
 
-- Visiting Students in Institute of Systems and Physical Biology
+- Visiting student in Institute of Systems and Physical Biology
 - Single particle tracking, super resolution imaging, spetrum imaging
-- Co-advised by [Shangguo Hou](https://www.szbl.ac.cn/en/scientificresearch/researchteam/2044.html) 
+- Co-advised by [Assistant Prof. Shangguo Hou](https://www.szbl.ac.cn/en/scientificresearch/researchteam/2044.html) 
 
-### **Harbin Institute of Technology (ShenZhen)** `2021.9 - `
+
+### **Harbin Institute of Technology (ShenZhen)** `2021.09 - `
 
 ```
 Shenzhen, China
@@ -57,15 +58,26 @@ Shenzhen, China
 
 - Ph.D. in Electronic Information, School of Computer Science and Technology
 - Computing imaging, Artifitial intelligence
+- advised by [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en)
 
-### **Dickinson College** `2013.9 - 2016.5`
+### **Central South University** `2017.9 - 2020.6`
 
 ```
-Carlisle, PA
+Changsha, China
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- M.S. in Mechanical engineering, _Summa Cum Laude_
+- Intelligent detection, Automation
+
+### **LuoYang Institute of Technology** `2013.9 - 2017.6`
+
+```
+LuoYang, China
+```
+
+- B.S. in Automation, _Summa Cum Laude_
+- Mechanical Enigeering Departmental Honors
+
 
 ## Honors & Awards
 
