@@ -113,12 +113,9 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <p>Shuai Liu, Bin Chen, Wenzen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
     <p><em>Communications Engineering, 2023, Under Review</em></p>
     <p>
-      <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
-      <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BioRxiV</a> /
-      <a href="https://github.com/hitsh95/SpecGAN">Github</a> /
-      <a href="./bibtex/photonics2023Sha.txt">BibTex</a> 
+      <!-- 占位符，无内容 -->
     </p>
-    <p>A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.</p>
+    <p>We build a novel deep compressive confocal microscope (DCCM). Combined with a deep learning reconstruction algorithm (DCCM-Net), our DCCM is able to achieve high-quality confocal microscopic imaging with low phototoxicity. Our imaging experiments with fluorescent microspheres demonstrate its capability of achieving single-pixel confocal imaging with a sampling ratio of only approximately 0.05%. In the prototype of our DCCM system, the imaging rates can improve by up to 833 fps and 13.65 megapixel/s.</p>
   </div>
 </div>
 
