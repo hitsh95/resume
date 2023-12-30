@@ -99,7 +99,29 @@ National Encouragement Scholarship `LIT, 2015` <br>
 First prize of [iCAN International Contest of innovAtioN](http://www.g-ican.com/home/index) `iCAN, 2014` <br>
 First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org.cn/index.php/race?catid=2) `China Association of Automation, 2014` <br>
 
+
+
 ## Publications
+
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="./assets/APL-2023/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2;">
+    <h3><strong><a href="./assets/APL-2023/096102_1_5.0156793.pdf">Deep learning-enhanced single-molecule spectrum imaging</a></strong></h3>
+    <p><strong>Hao Sha</strong>, Haoyang Li, Yongbing Zhang*, Shangguo Hou*</p>
+    <p><em>APL Photonics, 2023</em></p>
+    <p>
+      <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
+      <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BibTex</a> /
+    </p>
+    <p>a deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency.</p>
+  </div>
+</div>
+
+
+
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
@@ -156,35 +178,6 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
 
-## Mentoring
-
-[Yiliang "Leo" Liang](https://www.linkedin.com/in/yiliang-liang-a3631a138/) (University of Michigan) `CMU, 2022 - Now` <br>
-[Hwei-Shin Harriman](https://hsharriman.github.io/) (Olin College of Engineering, independent research) `CMU, 2021 - Now` <br>
-[Helena Yang](https://heleaf.me/) (CMU, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2021` <br>
-[Max Krieger](https://a9.io/) (CMU, independent research & [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2018 - 2021` <br>
-[Courtney Miller](https://courtney-e-miller.github.io/) (New College of Florida, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
-[Anael Kuperwajs Cohen](https://anaelkuperwajs.github.io/) (Macalester College, [REUSE](https://www.cmu.edu/scs/s3d/reuse/)) `CMU, 2019` <br>
 
 ---
 
-
-
-## Teaching
-
-Teaching Assistant, **Foundations of Software Engineering (17-313)** `CMU, 2022` <br>
-Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
-Reviewer `CHI'21, CHI'22, SIGGRAPH'22` <br>
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2023` <br>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
