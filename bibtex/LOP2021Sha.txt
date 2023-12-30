@@ -1,0 +1,12 @@
+@article{LOP2021Sha,
+   author = {Sha hao, 沙浩 and Liu Yangzhe, 刘阳哲 and Zhang Yongbing, 张永兵},
+   title = {基于深度学习的傅里叶叠层成像技术},
+   journal = {Laser & Optoelectronics Progress},
+   volume = {58},
+   number = {18},
+   ISSN = {1006-4125},
+   DOI = {10.3788/lop202158.1811020},
+   year = {2021},
+   type = {Journal Article}
+}
+

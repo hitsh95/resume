@@ -1,0 +1,13 @@
+@article{LIU2022107196,
+title = {Intensity and phase imaging through scattering media via deep despeckle complex neural networks},
+journal = {Optics and Lasers in Engineering},
+volume = {159},
+pages = {107196},
+year = {2022},
+issn = {0143-8166},
+doi = {https://doi.org/10.1016/j.optlaseng.2022.107196},
+url = {https://www.sciencedirect.com/science/article/pii/S0143816622002494},
+author = {Shuai Liu and Peng Li and Hao Sha and Jiuyang Dong and Yue Huang and Yanjing Zhao and Xuri Yao and Qin Peng and Xiu Li and Xing Lin and Yongbing Zhang},
+keywords = {Despeckle, Quantitative phase imaging, DespeckleNet},
+abstract = {The existence of a scattering medium causes the degeneration of intensity and phase information, especially in biological imaging. The present techniques to address this challenge only focus on the reconstruction of intensity information, yet few attempts have tried to recover the phase information. We propose a method to simultaneously predict both intensity and phase information from a speckle image employing a deep despeckle complex neural network (DespeckleNet). By combining the advantages of both the complex network and the generative adversarial network framework, our method enables the high contrast single-shot imaging of complicated biological samples through scattering media without labeling. Various experiments demonstrate the superior reconstruction and generalization performance of our method under multiple types of biological samples with different scattering media. We also provide the real-time observation of living cellular activities without any contaminations or damages to the cells. Our method offers simple yet effective imaging through scattering media and paves the way for real-time unlabeled biological imaging.}
+}

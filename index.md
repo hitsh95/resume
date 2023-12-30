@@ -114,11 +114,16 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <p><em>APL Photonics, 2023, Published</em></p>
     <p>
       <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
-      <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BibTex</a> /
+      <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BioRxiV</a> /
+      <a href="https://github.com/hitsh95/SpecGAN">Github</a> 
+      <a href="./bibtex/photonics2023.txt">BibTex</a> 
     </p>
     <p>A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.</p>
   </div>
 </div>
+
+
+
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 250px;">
@@ -130,67 +135,50 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <p><em>Biomedical Optics Express, 2023, Published</em></p>
     <p>
       <a href="./assets/BOE-2023/boe-14-9-4814.pdf">PDF</a> /
-      <a href="https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1">BibTex</a> /
+      <a href="https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1">BioRxiV</a> /
+      <a href="https://github.com/AlphaYuan/AutoUnmix">Github</a> / 
+      <a href="./bibtex/BOE2023Jiang.txt">BibTex</a> 
     </p>
     <p>Propose a deep learning-based blindly spectral unmixing method, termed AutoUnmix, to imitate the physical spectral mixing process. Our proposed method has demonstrated real-time unmixing capabilities, surpassing existing methods by up to 100-fold in terms of unmixing speed.</p>
   </div>
 </div>
 
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2;">
+    <h3><strong><a href="./assets/despeckle-2022/1-s2.0-S0143816622002494-main.pdf">Intensity and phase imaging through scattering media via deep despeckle complex neural networks</a></strong></h3>
+    <p>Yuan Jiang*, <strong>Hao Sha*</strong>, Shuai Liu, Peiwu Qin, Yongbing Zhang</p>
+    <p><em>Optics and Lasers in Engineering, 2022, Published</em></p>
+    <p>
+      <a href="./assets/despeckle-2022/1-s2.0-S0143816622002494-main.pdf">PDF</a> /
+      <a href="https://github.com/hitsh95/DespeckleNet">Github</a> /
+      <a href="./bibtex/LIU2022107196.txt">BibTex</a> 
+    </p>
+    <p>A method to simultaneously predict both intensity and phase information from a speckle image employing a deep despeckle complex neural network (DespeckleNet). Various experiments demonstrate the superior reconstruction and generalization performance of our method under multiple types of biological samples with different scattering media. Our method offers simple yet effective imaging through scattering media and paves the way for real-time unlabeled biological imaging.</p>
+  </div>
+</div>
 
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
-<i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br>
-_In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI'20)._<br>
-[[PDF]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.txt)]
-
-### [**Defining Visual Narratives for Mathematics Declaratively**](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)
-
-Max Krieger, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/9.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
-### [**Designing Declarative Language Tutorials: a Guided and Individualized Approach**](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)
-
-Anael Kuperwajs Cohen, **Wode Ni**, and Joshua Sunshine.<br>
-_Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-located with UIST._<br>
-[[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
-[[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
-
----
-
-### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-
-**Wode Ni\***, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> _Domain-Specific Language Design and Implementation (DSLDI 2017), co-located with SPLASH._ <br>
-[[PDF]({{ page.homepage.url }}/assets/dsldi.pdf)]
-[[slides]({{ page.homepage.url }}/assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [**Whiteboard Scanning Using Super-Resolution**](http://scholar.dickinson.edu/student_honors/221/)
-
-**Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
-
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="./assets/FPM-2021/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2;">
+    <h3><strong><a href="./assets/FPM-2021/1811020.pdf">Fourier Ptychography Based on Deep Learning</a></strong></h3>
+    <p><strong>Hao Sha*</strong>, Yangzhe Liu, Yongbing Zhang</p>
+    <p><em>Laser & Optoelectronics Progress, 2021, Published</em></p>
+    <p>
+      <a href="./assets/FPM-2021/1811020.pdf">PDF</a> /
+      <a href="./bibtex/LOP2021Sha.txt">BibTex</a> 
+    </p>
+    <p>An algorithm combining computational imaging prior knowledge and deep learning is proposed to deal the FPM reconstruction process.</p>
+  </div>
+</div>
 
 
 ---
