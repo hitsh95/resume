@@ -106,7 +106,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="./assets/APL-2023/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
+    <img src="./assets/APL-2023/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong><a href="./assets/APL-2023/096102_1_5.0156793.pdf">Deep learning-enhanced single-molecule spectrum imaging</a></strong></h3>
@@ -127,7 +127,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
+    <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/BOE-2023/boe-14-9-4814.pdf">AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging</a></strong></h3>
@@ -147,7 +147,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1; ">
-    <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
+    <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/despeckle-2022/1-s2.0-S0143816622002494-main.pdf">Intensity and phase imaging through scattering media via deep despeckle complex neural networks</a></strong></h3>
@@ -166,7 +166,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <div style="flex: 1;">
-    <img src="/assets/FPM-2021/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
+    <img src="./assets/FPM-2021/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/FPM-2021/1811020.pdf">Fourier Ptychography Based on Deep Learning</a></strong></h3>
