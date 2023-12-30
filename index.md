@@ -56,6 +56,7 @@ Shenzhen, China
 Shenzhen, China
 ```
 
+- GPA 3.6/4.0
 - Ph.D. in Electronic Information, School of Computer Science and Technology
 - Computing imaging, Artifitial intelligence
 - advised by [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en)
@@ -66,6 +67,7 @@ Shenzhen, China
 Changsha, China
 ```
 
+- GPA 3.6/4.0, Ranked 11 out of 168 students
 - M.S. in Mechanical engineering, _Summa Cum Laude_
 - Intelligent detection, Automation
 
@@ -75,22 +77,22 @@ Changsha, China
 LuoYang, China
 ```
 
+- GPA 3.5/4.0, Ranked No.1 totally
 - B.S. in Automation, _Summa Cum Laude_
 - Mechanical Enigeering Departmental Honors
 
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+[Shenzhen Bay Laboratory](https://www.szbl.ac.cn/) Distinguished Director Scholarship `SZBL, 2023` <br>
+[Central South University](https://en.csu.edu.cn/) Highpower Technology Scholarship `CSU, 2019` <br>
+[LuoYang Institute of Technology](https://www.lit.edu.cn/) Excellent Bachelor Thesis Award `LIT, 2017` <br>
+National Encouragement Scholarship `LIT, 2016` <br>
+First prize of [RoboCup Humanoid robot climbing Challenge](http://crc.drct-caa.org.cn/index.php/race?catid=2) `China Association of Automation, 2015` <br>
+First prize of [Henan Province 12th Challenge Cup](https://www.tiaozhanbei.net/) `China Association for Science and Technology, 2015` <br>
+National Encouragement Scholarship `LIT, 2015` <br>
+First prize of [iCAN International Contest of innovAtioN](http://www.g-ican.com/home/index) `iCAN, 2014` <br>
+First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org.cn/index.php/race?catid=2) `China Association of Automation, 2014` <br>
 
 ## Publications
 
