@@ -104,7 +104,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 ## Publications
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
   <div style="flex: 1;">
     <img src="./assets/APL-2023/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
@@ -125,7 +125,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
   <div style="flex: 1;">
     <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
@@ -145,7 +145,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
   <div style="flex: 1; ">
     <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
@@ -164,7 +164,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+<div style="display: flex; align-items: center; justify-content: center; height: 200px;">
   <div style="flex: 1;">
     <img src="./assets/FPM-2021/fig.png" alt="论文插图" style="max-height: 200px; width: auto;">
   </div>
