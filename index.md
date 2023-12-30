@@ -30,8 +30,10 @@ Supported arguments:
 
 <table>
   <tr>
-    <td style="width: 70%;">I am currently a 3rd year PhD student in the department of Computer Science, Harbin Institute of Technology (ShenZhen). I am a member of CCVL, advised by Bloomberg Distinguished Professor Dr. Alan Yuille. Previously, I received my MSE and BSE degrees from Tsinghua University in 2023 and 2020. My master advisor is prof. Haoqian Wang. During my study in Tsinghua University, I spent a good time with prof. Yulun Zhang, prof. Xin Yuan, prof. Radu Timofte, and prof. Luc Van Gool.</td>
-    <td style="width: 30%;"><img src="./assets/photo.jpg" alt="图片描述" style="max-width: 200px; width: 100%;"/></td>
+    <td style="width: 70%; vertical-align: top;">
+      I am currently a 3rd year PhD student in the department of [Computer Science](http://cs.hitsz.edu.cn/), [Harbin Institute of Technology (ShenZhen)](http://en.hitsz.edu.cn/). I am a member of CCVL, advised by Bloomberg Distinguished Professor Dr. Alan Yuille. Previously, I received my MSE and BSE degrees from Tsinghua University in 2023 and 2020. My master advisor is prof. Haoqian Wang. During my study in Tsinghua University, I spent a good time with prof. Yulun Zhang, prof. Xin Yuan, prof. Radu Timofte, and prof. Luc Van Gool.</td>
+    <td style="width: 30%; vertical-align: top;">
+      <img src="./assets/photo.jpg" alt="图片描述" style="max-width: 200px; width: 100%;"/></td>
   </tr>
 </table>
 
