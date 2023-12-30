@@ -104,18 +104,18 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 ## Publications
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="./assets/APL-2023/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="./assets/APL-2023/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
   </div>
-  <div style="flex: 2;">
+  <div style="flex: 2; padding-left: 10px;">
     <h3><strong><a href="./assets/APL-2023/096102_1_5.0156793.pdf">Deep learning-enhanced single-molecule spectrum imaging</a></strong></h3>
     <p><strong>Hao Sha</strong>, Haoyang Li, Yongbing Zhang*, Shangguo Hou*</p>
     <p><em>APL Photonics, 2023, Published</em></p>
     <p>
       <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
       <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BioRxiV</a> /
-      <a href="https://github.com/hitsh95/SpecGAN">Github</a> 
+      <a href="https://github.com/hitsh95/SpecGAN">Github</a> /
       <a href="./bibtex/photonics2023.txt">BibTex</a> 
     </p>
     <p>A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.</p>
@@ -125,9 +125,9 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/BOE-2023/boe-14-9-4814.pdf">AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging</a></strong></h3>
@@ -145,13 +145,13 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1; ">
+    <img src="./assets/despeckle-2022/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/despeckle-2022/1-s2.0-S0143816622002494-main.pdf">Intensity and phase imaging through scattering media via deep despeckle complex neural networks</a></strong></h3>
-    <p>Yuan Jiang*, <strong>Hao Sha*</strong>, Shuai Liu, Peiwu Qin, Yongbing Zhang</p>
+    <p>Shuai Liu*, Peng Li*,<strong>Hao Sha</strong>, Jiuyang Dong, Yue Huang, Xuri Yao, Qin Peng, Xiu Li, Xing Lin, Yongbing Zhang</p>
     <p><em>Optics and Lasers in Engineering, 2022, Published</em></p>
     <p>
       <a href="./assets/despeckle-2022/1-s2.0-S0143816622002494-main.pdf">PDF</a> /
@@ -164,9 +164,9 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 
 
-<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex: 1; min-width: 250px;">
-    <img src=" " alt="论文插图" style="width: 100%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="/assets/FPM-2021/fig.png" alt="论文插图" style="max-height: 150px; width: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/FPM-2021/1811020.pdf">Fourier Ptychography Based on Deep Learning</a></strong></h3>
