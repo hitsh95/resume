@@ -109,13 +109,28 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <!-- 占位符，无内容 -->
   </div >
   <div style="flex: 2; padding-left: 10px;">
+    <h3><strong>Towards reliable deep learning in anomalous diffusion against out-of-distribution dynamics</strong></h3>
+    <p>Xiaochen Feng*, <strong>Hao Sha*</strong>, Yuan Jiang, Yongbing Zhang</p>
+    <p><em>Nature Communications, 2023, Submitted</em></p>
+    <p>
+      <!-- 占位符，无内容 -->
+    </p>
+    <p>We present consensus framework for the evaluation of deep-learning based OOD dynamics detection and develop a baseline method that achieves robust OOD detection as well as accurate in-distribution (ID) recognition of anomalous diffusion. The method empowers deep-learning networks to examine OOD dynamics, which we validate using simulated and real data corresponding to biological and physical experiments.</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <!-- 占位符，无内容 -->
+  </div >
+  <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</strong></h3>
     <p>Shuai Liu, Bin Chen, Wenzen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
     <p><em>Communications Engineering, 2023, Under Review</em></p>
     <p>
       <!-- 占位符，无内容 -->
     </p>
-    <p>We build a novel deep compressive confocal microscope (DCCM). Combined with a deep learning reconstruction algorithm (DCCM-Net), our DCCM is able to achieve high-quality confocal microscopic imaging with low phototoxicity. Our imaging experiments with fluorescent microspheres demonstrate its capability of achieving single-pixel confocal imaging with a sampling ratio of only approximately 0.05%. In the prototype of our DCCM system, the imaging rates can improve by up to 833 fps and 13.65 megapixel/s.</p>
+    <p>We build a novel deep compressive confocal microscope (DCCM). Combined with a deep learning reconstruction algorithm (DCCM-Net), our DCCM is able to achieve high-quality confocal microscopic imaging with low phototoxicity. Our imaging experiments with fluorescent microspheres demonstrate its capability of achieving single-pixel confocal imaging with a sampling ratio of only approximately 0.05%. In the prototype of our DCCM system, the imaging rates can achieve up to 833 fps and 13.65 megapixel/s.</p>
   </div>
 </div>
 
