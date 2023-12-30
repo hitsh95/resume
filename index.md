@@ -166,7 +166,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="./assets/FPM-2021/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+    <img src=" " alt="论文插图" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2;">
     <h3><strong><a href="./assets/FPM-2021/1811020.pdf">Fourier Ptychography Based on Deep Learning</a></strong></h3>
