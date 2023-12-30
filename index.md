@@ -111,16 +111,30 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
   <div style="flex: 2;">
     <h3><strong><a href="./assets/APL-2023/096102_1_5.0156793.pdf">Deep learning-enhanced single-molecule spectrum imaging</a></strong></h3>
     <p><strong>Hao Sha</strong>, Haoyang Li, Yongbing Zhang*, Shangguo Hou*</p>
-    <p><em>APL Photonics, 2023</em></p>
+    <p><em>APL Photonics, 2023, Published</em></p>
     <p>
       <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
       <a href="https://www.biorxiv.org/content/10.1101/2023.05.08.539787v1.abstract">BibTex</a> /
     </p>
-    <p>a deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency.</p>
+    <p>A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.</p>
   </div>
 </div>
 
-
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex: 1; min-width: 250px;">
+    <img src="./assets/BOE-2023/fig.png" alt="论文插图" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 2;">
+    <h3><strong><a href="./assets/BOE-2023/boe-14-9-4814.pdf">AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging</a></strong></h3>
+    <p>Yuan Jiang*, <strong>Hao Sha*</strong>, Shuai Liu, Peiwu Qin, Yongbing Zhang</p>
+    <p><em>Biomedical Optics Express, 2023, Published</em></p>
+    <p>
+      <a href="./assets/BOE-2023/boe-14-9-4814.pdf">PDF</a> /
+      <a href="https://www.biorxiv.org/content/10.1101/2023.05.30.542836v1">BibTex</a> /
+    </p>
+    <p>Propose a deep learning-based blindly spectral unmixing method, termed AutoUnmix, to imitate the physical spectral mixing process. Our proposed method has demonstrated real-time unmixing capabilities, surpassing existing methods by up to 100-fold in terms of unmixing speed.</p>
+  </div>
+</div>
 
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
