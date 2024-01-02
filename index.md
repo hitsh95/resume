@@ -121,11 +121,11 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <!-- 占位符，无内容 -->
+    <img src="./assets/CB-2023/fig.png" alt="论文插图" style="max-height: 200px; width: 400px;">
   </div >
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</strong></h3>
-    <p>Shuai Liu, Bin Chen, Wenzen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
+    <p>Shuai Liu, Bin Chen, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
     <p><em>Communications Engineering, 2023, Under Review</em></p>
     <p>
       <!-- 占位符，无内容 -->
@@ -142,7 +142,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
   </div>
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong><a href="./assets/APL-2023/096102_1_5.0156793.pdf">Deep learning-enhanced single-molecule spectrum imaging</a></strong></h3>
-    <p><strong>Hao Sha</strong>, Haoyang Li, Yongbing Zhang*, Shangguo Hou*</p>
+    <p><strong>Hao Sha</strong>, Haoyang Li, Yongbing Zhang, Shangguo Hou</p>
     <p><em>APL Photonics, 2023, Published</em></p>
     <p>
       <a href="./assets/APL-2023/096102_1_5.0156793.pdf">PDF</a> /
