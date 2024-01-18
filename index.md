@@ -107,7 +107,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <!-- 占位符，无内容 -->
+     <img src="./assets/OOD-2024/fig.png" alt="论文插图" style="max-height: 200px; width: 400px;">
   </div >
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Towards reliable deep learning in anomalous diffusion against out-of-distribution dynamics</strong></h3>
@@ -117,6 +117,22 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
       <!-- 占位符，无内容 -->
     </p>
     <p>We present consensus framework for the evaluation of deep-learning based OOD dynamics detection and develop a baseline method that achieves robust OOD detection as well as accurate in-distribution (ID) recognition of anomalous diffusion. The method empowers deep-learning networks to examine OOD dynamics, which we validate using simulated and real data corresponding to biological and physical experiments.</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
+  <div style="flex: 1;">
+    <img src="./assets/OE-2024/fig.png" alt="论文插图" style="max-height: 200px; width: 400px;">
+  </div >
+  <div style="flex: 2; padding-left: 10px;">
+    <h3><strong>Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</strong></h3>
+    <p>Shuai Liu, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Bin Chen, Sanyang Han, Xiu Li, Yongbing Zhang</p>
+    <p><em>Optics Express, 2024, Under Review</em></p>
+    <p>
+      <!-- 占位符，无内容 -->
+      <a href="https://github.com/ClementZou/SHCNet">Github</a> /
+    </p>
+    <p>We propose a snapshot hyperspectral confocal microscopic imaging system (SHCMS). It combined coded illumination microscopy based on a digital micromirror device (DMD) with a snapshot hyperspectral confocal neural network (SHCNet) to realize single-shot confocal hyperspectral imaging. With SHCMS, high-contrast 160-band confocal hyperspectral images of potato tuber autofluorescence can be collected by only single-shot, which is almost 5 times improvement in the number of spectral channels than previously reported methods.</p>
   </div>
 </div>
 
