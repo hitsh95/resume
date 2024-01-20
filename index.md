@@ -111,7 +111,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
   </div >
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Towards reliable deep learning in anomalous diffusion against out-of-distribution dynamics</strong></h3>
-    <p>Xiaochen Feng*, <strong>Hao Sha*</strong>, Yuan Jiang, Yongbing Zhang</p>
+    <p>Xiaochen Feng*, <strong>Hao Sha*</strong>, Yuan Jiang, Sanyang Han, Yongbing Zhang</p>
     <p><em>Nature Communications, 2024, Submitted</em></p>
     <p>
       <!-- 占位符，无内容 -->
@@ -125,7 +125,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <img src="./assets/OE-2024/fig.png" alt="论文插图" style="max-height: 200px; width: 400px;">
   </div >
   <div style="flex: 2; padding-left: 10px;">
-    <h3><strong>Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</strong></h3>
+    <h3><strong>Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system</strong></h3>
     <p>Shuai Liu, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Bin Chen, Sanyang Han, Xiu Li, Yongbing Zhang</p>
     <p><em>Optics Express, 2024, Under Review</em></p>
     <p>
