@@ -125,12 +125,13 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <img src="./assets/OE-2024/fig.png" alt="论文插图" style="max-height: 200px; width: 400px;">
   </div >
   <div style="flex: 2; padding-left: 10px;">
-    <h3><strong>Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system</strong></h3>
-    <p>Shuai Liu, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Bin Chen, Sanyang Han, Xiu Li, Yongbing Zhang</p>
-    <p><em>Optics Express, 2024, Under Review</em></p>
+    <h3><strong><a href="./assets/OE-2024/oe-32-8-13918.pdf">Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system</a></strong></h3>
+    <p>Shuai Liu*, Wenzhen Zou*, <strong>Hao Sha</strong>, Xiaochen Feng, Bin Chen, Sanyang Han, Xiu Li, Yongbing Zhang</p>
+    <p><em>Optics Express, 2024, Published</em></p>
     <p>
-      <!-- 占位符，无内容 -->
+      <a href="./assets/OE-2024/oe-32-8-13918.pdf">PDF</a> /
       <a href="https://github.com/ClementZou/SHCNet">Github</a> /
+      <a href="./bibtex/photonics2023Sha.txt">BibTex</a> 
     </p>
     <p>We propose a snapshot hyperspectral confocal microscopic imaging system (SHCMS). It combined coded illumination microscopy based on a digital micromirror device (DMD) with a snapshot hyperspectral confocal neural network (SHCNet) to realize single-shot confocal hyperspectral imaging. With SHCMS, high-contrast 160-band confocal hyperspectral images of potato tuber autofluorescence can be collected by only single-shot, which is almost 5 times improvement in the number of spectral channels than previously reported methods.</p>
   </div>
@@ -142,7 +143,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
   </div >
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</strong></h3>
-    <p>Shuai Liu, Bin Chen, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
+    <p>Shuai Liu*, Bin Chen*, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
     <p><em>Communications Engineering, 2024, Under Review</em></p>
     <p>
       <!-- 占位符，无内容 -->
