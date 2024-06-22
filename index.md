@@ -31,7 +31,7 @@ Supported arguments:
 <table>
   <tr>
     <td style="width: 70%; vertical-align: middle;">
-      I am currently a 3rd year PhD student in the department of <a href="http://cs.hitsz.edu.cn/">Computer Science</a>, <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a>. Previously, I received my MSE and BSE degrees from <a href="https://en.csu.edu.cn/">Central South University</a> and <a href="https://www.lit.edu.cn/">LuoYang Institute of Technology</a> in 2020 and 2017. My Ph.D. supervisors are <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> from <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a> and <a href="http://houlab.szbl.ac.cn/"> Assistant Prof. Shangguo Hou</a> from <a href="https://www.szbl.ac.cn/en/"> Shenzhen Bay Laboratory</a>.  My research interests lie primarily in the areas of super-resolution imaging and single particle/molecule tracking. During my study in HIT and SZBL, I developed a single molecule spectrum tracking system. With this system, we can achieve tracking of single molecules spectrum at the spatiotemporal scale of millisecond-nanometers. Besides, I also spent a good time with <a href="https://www.sigs.tsinghua.edu.cn/hsy_en/main.htm">Assistant Prof. Sanyang Han</a>, <a href="http://web.ee.tsinghua.edu.cn/linxing/en/index.htm">Assistant Prof. Xing Lin</a>, and <a href="https://ee.jlu.edu.cn/en/info/1028/1106.htm"> Prof. Chenguang Wang</a>.</td>
+      I am currently a 3rd year PhD student in the department of <a href="http://cs.hitsz.edu.cn/">Computer Science</a>, <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a>. Previously, I received my MSE and BSE degrees from <a href="https://en.csu.edu.cn/">Central South University</a> and <a href="https://www.lit.edu.cn/">LuoYang Institute of Technology</a> in 2020 and 2017. My Ph.D. supervisors are <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> from <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a> and <a href="http://houlab.szbl.ac.cn/"> Assistant Prof. Shangguo Hou</a> from <a href="https://www.szbl.ac.cn/en/"> Shenzhen Bay Laboratory</a>.  My research interests lie primarily in the areas of super-resolution imaging and single particle/molecule tracking. During my study in HIT and SZBL, I developed a single molecule spectrum tracking system. With this system, we can achieve tracking of single molecules spectrum at the spatiotemporal scale of millisecond-nanometers. Besides, I also spent a good time with <a href="https://www.sigs.tsinghua.edu.cn/hsy_en/main.htm">Assistant Prof. Sanyang Han</a> and <a href="https://ee.jlu.edu.cn/en/info/1028/1106.htm"> Prof. Chenguang Wang</a>.</td>
     <td style="width: 30%; vertical-align: middle;">
       <img src="./assets/photo.jpg" alt="图片描述" style="max-width: 200px; width: 100%;"/></td>
   </tr>
@@ -112,7 +112,7 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Towards reliable deep learning in anomalous diffusion against out-of-distribution dynamics</strong></h3>
     <p>Xiaochen Feng*, <strong>Hao Sha*</strong>, Yuan Jiang, Sanyang Han, Yongbing Zhang</p>
-    <p><em>xxx, 2024, in preparing</em></p>
+    <p><em>Nature Computational Science, 2024, under review</em></p>
     <p>
       <!-- 占位符，无内容 -->
     </p>
@@ -143,8 +143,8 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
   </div >
   <div style="flex: 2; padding-left: 10px;">
     <h3><strong>Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</strong></h3>
-    <p>Shuai Liu*, Bin Chen*, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Xu Zhang,Xiu Li, Jian Zhang, Xuri Yao, Yongbing Zhang</p>
-    <p><em>Communications Engineering, 2024, Under Review</em></p>
+    <p>Shuai Liu*, Bin Chen*, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Sanyang Han, Xiu Li, Xuri Yao, Jian Zhang, Yongbing Zhang</p>
+    <p><em>Communications Engineering, 2024, Accepted</em></p>
     <p>
       <!-- 占位符，无内容 -->
       <a href="https://github.com/Guaishou74851/DCCM">Github</a> /
