@@ -147,7 +147,9 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <p><em>Communications Engineering, 2024, Accepted</em></p>
     <p>
       <!-- 占位符，无内容 -->
+      <a href="./assets/CB-2023/s44172-024-00236-x.pdf.pdf">PDF</a> /
       <a href="https://github.com/Guaishou74851/DCCM">Github</a> /
+      <a href="./bibtex/LIU2024CE.txt">BibTex</a> 
     </p>
     <p>We build a novel deep compressive confocal microscope (DCCM). Combined with a deep learning reconstruction algorithm (DCCM-Net), our DCCM is able to achieve high-quality confocal microscopic imaging with low phototoxicity. Our imaging experiments with fluorescent microspheres demonstrate its capability of achieving single-pixel confocal imaging with a sampling ratio of only approximately 0.05%. In the prototype of our DCCM system, the imaging rates can achieve up to 833 fps and 13.65 megapixel/s.</p>
   </div>

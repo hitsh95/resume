@@ -1,0 +1,12 @@
+@article{RN459,
+   author = {Liu, Shuai and Chen, Bin and Zou, Wenzhen and Sha, Hao and Feng, Xiaochen and Han, Sanyang and Li, Xiu and Yao, Xuri and Zhang, Jian and Zhang, Yongbing},
+   title = {Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios},
+   journal = {Communications Engineering},
+   volume = {3},
+   number = {1},
+   ISSN = {2731-3395},
+   DOI = {10.1038/s44172-024-00236-x},
+   year = {2024},
+   type = {Journal Article}
+}
+
