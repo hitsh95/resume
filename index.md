@@ -139,12 +139,12 @@ First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org
     <img src="./assets/CB-2023/fig.png" alt="论文插图" style="max-height: 200px; width: 400px;">
   </div >
   <div style="flex: 2; padding-left: 10px;">
-    <h3><strong><a href="./assets/CB-2023/s44172-024-00236-x.pdf.pdf">Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</a></strong></h3>
+    <h3><strong><a href="./assets/CB-2023/s44172-024-00236-x.pdf">Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios</a></strong></h3>
     <p>Shuai Liu*, Bin Chen*, Wenzhen Zou, <strong>Hao Sha</strong>, Xiaochen Feng, Sanyang Han, Xiu Li, Xuri Yao, Jian Zhang, Yongbing Zhang</p>
     <p><em>Communications Engineering, 2024, Published</em></p>
     <p>
       <!-- 占位符，无内容 -->
-      <a href="./assets/CB-2023/s44172-024-00236-x.pdf.pdf">PDF</a> /
+      <a href="./assets/CB-2023/s44172-024-00236-x.pdf">PDF</a> /
       <a href="https://github.com/Guaishou74851/DCCM">Github</a> /
       <a href="./bibtex/LIU2024CE.txt">BibTex</a> 
     </p>
